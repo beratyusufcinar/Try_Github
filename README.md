@@ -7,3 +7,8 @@ github nasıl kullanılır deneme
 ##görsel eklemeye çalışıyoruz;
 
 ![ekleme açıklaması](wallpaperbetter.jpg)
+
+##hobiler
+-çay içmek
+-koşu yapmak
+-...
